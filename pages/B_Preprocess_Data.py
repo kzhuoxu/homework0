@@ -11,6 +11,8 @@ st.markdown("### Homework 0 - Introduction to Streamlit")
 
 #############################################
 
+st.markdown('# Preprocess Dataset')
+
 ###################### FETCH or RESTORE DATASET #######################
 
 # Display original dataframe

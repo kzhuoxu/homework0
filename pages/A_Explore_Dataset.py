@@ -10,6 +10,10 @@ st.markdown("# Practical Applications of Machine Learning (PAML)")
 
 st.markdown("### Homework 0 - Introduction to Streamlit")
 
+#############################################
+
+st.markdown('# Explore Dataset')
+
 ###################### FETCH DATASET #######################
 
 # Dataset upload
@@ -32,6 +36,3 @@ st.markdown("### Homework 0 - Introduction to Streamlit")
 
 # Plot Histogram
 
-
-st.markdown('Continue to Preprocess Data')
-st.sidebar.image('./images/cornell-tech-logo2.png')
