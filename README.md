@@ -21,6 +21,7 @@ The <b>learning outcomes<b> for this assignment are to end an app using:
 * <b>What to turn in</b>: Submit responses on GitHub AutoGrader
 * <b>Assignment Type</b>: Individual
 * <b>Time Estimate</b>: 9 Hours
+* <b>Join Github Classroom</b>: https://classroom.github.com/a/2Yp-ESOH
 
 # Prerequisites
 
