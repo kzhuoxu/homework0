@@ -21,8 +21,6 @@ The <b>learning outcomes<b> for this assignment are to end an app using:
 * <b>What to turn in</b>: Submit responses on GitHub AutoGrader
 * <b>Assignment Type</b>: Individual
 * <b>Time Estimate</b>: 9 Hours
-* <b>Submit code via GitHub</b>: https://classroom.github.com/a/fiL30jIe
-* <b>Submit Reflection Assessment</b> via Canvas (multiple choice, 5 questions)
 
 # Prerequisites
 
