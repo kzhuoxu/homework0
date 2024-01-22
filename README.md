@@ -44,7 +44,7 @@ conda env create -f environment.yml
 
 Install Assignment Code
 ```
-git clone https://github.com/Cornell-Tech-PAML-Instructors-2024/homework0
+git clone https://github.com/Cornell-Tech-PAML-Course-2024/homework0
 ```
 
 # Repository file structure
